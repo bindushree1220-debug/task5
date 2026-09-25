@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flower Shop</title>
+</head>
+<body>
+
+<h1>🌸 Beautiful Flower Shop 🌸</h1>
+
+<h2>🌹 Rose</h2>
+<p>Price: ₹100</p>
+
+<h2>🌻 Sunflower</h2>
+<p>Price: ₹150</p>
+
+<h2>🌷 Tulip</h2>
+<p>Price: ₹200</p>
+
+<h2>🌼 Jasmine</h2>
+<p>Price: ₹120</p>
+
+<h2>🌺 Hibiscus</h2>
+<p>Price: ₹80</p>
+
+<h2>💐 Lily</h2>
+<p>Price: ₹180</p>
+
+<h2>🌸 Lotus</h2>
+<p>Price: ₹130</p>
+
+<h2>🌼 Marigold</h2>
+<p>Price: ₹90</p>
+
+<h2>🌸 Orchid</h2>
+<p>Price: ₹250</p>
+
+<h2>💮 Daisy</h2>
+<p>Price: ₹110</p>
+
+</body>
+</html>
